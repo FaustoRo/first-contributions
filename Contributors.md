@@ -2463,7 +2463,7 @@ Matthew Burgos
 - [Firdevs Akbayır](https://github.com/lyushher)
 - [Pavan Gajjala](https://github.com/pavangajjala)
 - [Hazem Waleed](https://github.com/hazem-walied)
--[Shubhachand Patel](https://github.com/shubhachand)
+- [Shubhachand Patel](https://github.com/shubhachand)
 - [Yusuf](https://github.com/ustastan)
 - [Kapain1](https://github.com/Kapain1)
 - [HANAdes](https://github.com/HANAdes1126)
@@ -2473,6 +2473,6 @@ Matthew Burgos
 - April Kidd
 - [the_robats](https://github.com/therobats1)
 - [MuhammadUsmanGM](https://github.com/MuhammadUsmanGM)
-[Nish2005karsh](https://github.com/Nish2005karsh)
--[Miguel Feria](https://github.com/inkmiguel)
--[Fausto Rodriguez](https://github.com/FaustoRo)
+- [Nish2005karsh](https://github.com/Nish2005karsh)
+- [Miguel Feria](https://github.com/inkmiguel)
+- [Fausto Rodriguez](https://github.com/FaustoRo)
